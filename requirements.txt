@@ -1,0 +1,5 @@
+langchain
+langchain-mistralai
+langgraph
+PyPDF2
+transformers
