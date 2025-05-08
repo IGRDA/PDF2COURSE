@@ -178,3 +178,4 @@ data
 
 ### APY keys
 api_keys.py
+.DS_Store
